@@ -3,6 +3,7 @@
 I am a student at the University of Virginia majoring in Computer Science and minoring in Entrepreneurship, graduating in May 2026. 
 
 🧠 About Me
+
 University: University of Virginia
 Major: Computer Science 
 Minor: Entrepreneurship
