@@ -12,6 +12,7 @@ I am a student at the University of Virginia majoring in Computer Science and mi
 ## 🔌 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/noor--ansari)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:n.ansarin24@gmail.com)
 
 ## 💡 Open to Opportunities!
 
