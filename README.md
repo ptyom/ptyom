@@ -16,7 +16,7 @@ I am a student at the University of Virginia majoring in Computer Science and mi
 
 ## 💡 Open to Opportunities!
 
-I am actively seeking internship opportunities, fellowships, and collaborative projects. Let's connect and build something amazing together!
+I am actively seeking internship opportunities, full-time job roles, fellowships, and collaborative projects. Let's connect and build something amazing together!
 
 ## 🛠️ Languages & Tools
 
