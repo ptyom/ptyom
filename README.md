@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Noor
 
-I'm a student majoring in Computer Science at the University of Virginia with a passion for coding, painting, and advocating for equal education.
+I'm majoring in Computer Science at the University of Virginia with a passion for coding, painting, and advocating for fair education for all.
 
 ## 🧠 About Me
 
