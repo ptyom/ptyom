@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Noor
 
-I'm majoring in Computer Science at the University of Virginia with a passion for coding, painting, and advocating for fair education for all.
+I am a Computer Science major and Entrepreneurship minor at the University of Virginia!
 
 ## 🧠 About Me
 
  University: University of Virginia  
  Major: Computer Science  
  Minor: Entrepreneurship  
- Interests: Advocacy for fair education, solving real-world problems ✍️, traveling 🌎, playing pickleball 🏓, and spending time with my cat, Truffle 🐱 and German Shepherd dog, Hazel 🐶.
+ Interests: Advocacy for all, solving real-world problems ✍️, traveling 🌎, cooking new foods 🍳, playing pickleball 🏓, and spending time with my cat, Truffle 🐱 and German Shepherd dog 🐶.
 
 ## 🔌 Connect with Me!
 
@@ -16,7 +16,7 @@ I'm majoring in Computer Science at the University of Virginia with a passion fo
 
 ## 💡 Open to Opportunities!
 
-I am actively seeking full-time opportunities, internships, fellowships, and collaborative projects. 
+I am actively seeking full-time opportunities.
 
 Let's connect and create something cool together!
 
