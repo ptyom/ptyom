@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Noor
 
-I am a Computer Science major and Entrepreneurship minor at the University of Virginia!
+I am a Computer Science major and Entrepreneurship minor at the University of Virginia graduating in three years in May 2026!
 
 ## 🧠 About Me
 
@@ -16,9 +16,9 @@ I am a Computer Science major and Entrepreneurship minor at the University of Vi
 
 ## 💡 Open to Opportunities!
 
-I am actively seeking full-time opportunities.
+I am actively seeking full-time opportunities!
 
-Let's connect and create something cool together!
+Let's connect and create something cool together.
 
 ## 🛠️ Languages & Tools
 
